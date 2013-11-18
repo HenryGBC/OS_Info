@@ -132,7 +132,8 @@ void Ejecutar(char comando [])
      }
 
 
-}
+}    
+	//Información de Windows  
     #elif _WIN32
     string exec(char *cmd)
     {
